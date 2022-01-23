@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jennifer-hy-li I'm a first year engineering student at McMaster University.
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning HTML/CSS, React.js
+- 👀 I’m interested in full stack software development
+- 🌱 I’m currently learning HTML/CSS, React.js, Pyton and more!
 - 📫 How to reach me email: jennifer.lihuiyan@gmail.com linkedin: https://www.linkedin.com/in/jennifer-hy-li/
 
 <!---
