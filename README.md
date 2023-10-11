@@ -10,9 +10,9 @@
 - guitarrr🎸
 
 📫 How to reach me:
-email: jennifer.lihuiyan@gmail.com 
-linkedin: https://www.linkedin.com/in/jennifer-hy-li/
-site: (heh in maintenance)
+- email: jennifer.lihuiyan@gmail.com 
+- linkedin: https://www.linkedin.com/in/jennifer-hy-li/
+- site: (heh in maintenance)
 
 <!---
 jennifer-hy-li/jennifer-hy-li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
