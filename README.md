@@ -1,7 +1,7 @@
 👋 Hi, I’m @jennifer-hy-li I'm a third year computer engineering student at McMaster University.
 
 🙂 Here are some of my experiences:
-- Software Engineering Intern @ Amelia (❤️current)
+- Production Automation Engineer @ Petronas
 - Image Processing Intern @ Fimimall
 
 🌱 I’m currently learning..
