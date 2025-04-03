@@ -6,9 +6,7 @@
 - Image Processing Intern @ Fimimall
 
 🌱 I’m currently learning..
-- cloud computing
-- ios development
-- guitarrr🎸
+
 
 📫 How to reach me:
 - email: jennifer.lihuiyan@gmail.com 
